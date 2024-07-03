@@ -1,133 +1,106 @@
-S1   
+# S1
 
-    TSSR: Le métier
-    
-    Les outils de l'admin
+- **TSSR : Le métier**
+- **Les outils de l'admin**
+- **Architecture des ordinateurs**
+- **Introduction aux méthodes agiles**
 
-    Architecture des ordinateurs
+# S2
 
-    Introduction aux méthodes agiles
-    
-S2
+- **OS - Intro**
+- **Les Shell**
+- **La Gestion du stockage**
+- **Gestion processus, mémoire et services**
 
-    OS - Intro
-    
-    Les Shell
+# S3
 
-    La Gestion du stockage
-    
-    Gestion processus, mémoire et services
+- **Gestion des utilisateurs**
+- **Git/Github**
 
-S3
+# S4
 
-    Gestion des utilisateurs
+- **Scripting Bash**
 
-    Git/Github
-    
-S4
+# S5
 
-    Scripting Bash
-    
-S5
+- **Principe des réseaux**
+- **Ethernet**
+- **Adressage IPv4 & DHCP**
 
-    Principe des réseaux
+# S6
 
-    Ethernet
+- **Scripting Powershell**
 
-    Adressage IPv4 & DHCP
-    
-S6
+# S7
 
-    Scripting Powershell
-    
-S7
+- **IPv6**
+- **IP : Routage et NAT**
 
-    IPv6
+# S8
 
-    IP : Routage et NAT
-    
-S8
+- **DNS**
+- **Virtualisation**
 
-    DNS
+# S9
 
-    Virtualisation
-    
-S9
+- **Active Directory**
+- **GPO**
+- **Docker**
 
-    Active Directory
+# S10
 
-    GPO
+- **Introduction à la cybersécurité**
+- **Cryptographie**
+- **SSH**
 
-    Docker
-    
-S10
+# S11
 
-    Indroduction à la cybersécurité
+- **Suivi des incidents**
+- **Suivi de parc**
+- **Les services bureautiques**
 
-    Cryptographie
+# S12
 
-    SSH
-    
-S11
+- **Firewall**
+- **VPN**
 
-    Suivi es incidents
+# S13
 
-    Suivi de parc
+- **Stockage avancé**
+- **Sauvegarde et archivage**
 
-    Les services bureautiques
-    
-S12
+# S14
 
-    Firewall
+- **Sécuriser les systèmes**
+- **Journalisation**
+- **Supervision**
 
-    VPN
-    
-S13
+# S15
 
-    Stockage avancé
+- **La messagerie**
+- **Déploiement automatique de Windows**
 
-    Sauvegarde et archivage
-    
-S14
+# S16
 
-    Sécuriser les systèmes
+- **Gestion des mises à jour**
+- **Les gestionnaires de paquets**
 
-    Journalisation
+# S17
 
-    Supervision
-    
-S15
+- **HTTP et les serveurs web**
+- **VOIP**
 
-    La messagerie
+# S18
 
-    Déploiement automatique de Windows
-    
-S16
+- **Les aspects juridiques**
+- **Wifi**
+- **Radius**
 
-    Gestion des mises à jour
+# S19
 
-    Les gestionnaire de paquets
-    
-S17
+- **Cloud Computing**
+- **IDS/IPS**
 
-    HTTP et les serveurs web
+# S20
 
-    VOIP
-    
-S18
-
-    Les aspects juridiques
-
-    Wifi
-
-    Radius
-    
-S19
-
-    Cloud Computing
-
-    IDS/IPS
-    
-S20
-
-    Réussir son entrée en entreprise
+- **Réussir son entrée en entreprise**
